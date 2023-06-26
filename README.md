@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrZwen
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning Js and PHP Framework
 
 <!---
 MrZwen/MrZwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
